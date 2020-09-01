@@ -1,6 +1,6 @@
 # ftestapp1
 
-A new Flutter project.
+A new Flutter project. (marketing application)
 
 ## Getting Started
 
